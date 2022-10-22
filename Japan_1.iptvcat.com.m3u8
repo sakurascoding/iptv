@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="Music",3ABN Praise Him Music Network (720p)
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p)
+https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;FI;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png" group-title="Undefined",ABC Asahi (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",AT-X
+https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aghapy-kids-us.png" group-title="Kids",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alfady_channel.png" group-title="Undefined",Al-Fady TV (1080p) [Not 24/7]
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;FI;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Undefined",Animax (720p)
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD (540p)
+http://w4.12all.tv:4000/play/bbc1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Undefined",BBC Two HD (720p)
+http://w4.12all.tv:4000/play/bbc2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;CL;FI;IQ;JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-203-400x400.png" group-title="Undefined",BS 12 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/YUdyGYf.png" group-title="General",Carlsbad City TV Channel (Carlsbad CA) (720p)
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/LBvrr8s.png" group-title="Undefined",CityTV San Diego (360p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;CL;FI;IQ;JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel Japan (540p) [Not 24/7]
+https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/dn8Bith.png" group-title="Undefined",El Toro TV (720p)
+https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic (720p)
+http://81.94.196.205/tsstreamer/France24Arabic_HD.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/N2eF0d7.png" group-title="Undefined",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="" group-title="Undefined",Hype Tv
+http://35.189.69.44/tmp_hls/desibox/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="" group-title="Undefined",ITV 1 (1080p)
+http://w4.12all.tv:4000/play/itv1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;BG;CL;FI;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Undefined",Jidaigeki Senmon Channel (540p)
+https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/4WvIVVe.png" group-title="Religious",KALO TV (432p)
+https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/e8a622ce6ed34d07b468dd6ea2f94ee8/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="Religious",KSCE Vida Cristiana (360p)
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/daD6arQ.png" group-title="Religious",LIFE! End Times TV (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/6TLQWh8.png" group-title="Religious",Life! Christian Broadcasting Network (360p)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Living_Faith_Television_Network_%28logo%29.jpg" group-title="Undefined",Living Faith Television (540p)
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",MX Live (Webcam)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK World Japan (720p)
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="News",NTV News24 (480p)
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/UtseOIv.png" group-title="Education",Pasadena City College Education Channel (PCCtv) (Pasadena CA) (720p)
+https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamc/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/DBZ2IAW.png" group-title="General",Pasadena Community Public Channel (Arroyo) (Pasadena CA) (720p)
+https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streamb/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/cLfER05.png" group-title="General",Pasadena Government Channel (KPAS) (Pasadena CA) (720p)
+https://pasadenamed.secure.footprint.net/egress/bhandler/pasadenamed/streama/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/BWB5URT.png" group-title="Undefined",Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/7Q2tUNc.png" group-title="Undefined",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/dZXpidI.png" group-title="Legislative",Placentia TV (Placentia CA) (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;CL;FI;IQ;JP" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Movies",Planeta TV Movies (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="Family",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/pB3yt49.png" group-title="General",RiversideTV (Riverside CA) (720p)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/riversideca/G0879_001/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/g9BKOTw.png" group-title="General",SF Commons Channel 29 (San Francisco CA) (480p)
+https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/g9BKOTw.png" group-title="General",SF Commons Channel 76 (San Francisco CA) (480p)
+https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/vfghsZA.png" group-title="Legislative",SFGovTV San Francisco The Government Channel (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_003/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/JbYjHcO.png" group-title="General",SFGovTV2 San Francisco The City Channel (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;BG;JP;SG" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (540p) [Not 24/7]
+https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CN;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IS;IN;ID;IR;IQ;IL;IT;JP;KW;MY;MX;MN;MA;NL;NZ;NO;OM;PK;PS;PA;PE;PH;PL;PT;QA;RO;SA;RS;SG;SK;ES;SD;SE;CH;TH;TR;UA;AE;GB;US;VN;YE" tvg-logo="" group-title="Undefined;FRANCE;ITALY;MEXICO;PAKISTAN;SPAIN;CHINA",Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/rls8NVc.png" group-title="Undefined",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/512px-Tv_osaka_logo.svg.png" group-title="Undefined",TV Osaka (テレビ大阪) (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/gHdoEc3.png" group-title="Undefined",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-580-400x400.png" group-title="Undefined",Toei Channel (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Undefined",Tokyo MX 1 (540p)
+https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Tokyo MX1 (720p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Local",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="Undefined",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Tokyo MX2 (720p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="News",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Weather",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png" group-title="Undefined",YTV Yomiuri TV (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/8fKWpo3.png" group-title="Religious",Три Ангела (720p)
+https://hls.tv.3angels.ru/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9VXxnlo.png" group-title="Undefined",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Undefined",日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;CO;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Undefined",滁州市广播电视台 公共频道 (400p)
+http://live.cztv.cc:85/live/ggpd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="News",滁州市广播电视台 新闻综合频道 (1080p)
+http://live.cztv.cc:85/live/xwpd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AM;BH;BB;BR;CL;DK;GR;ID;IL;JP;KW" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Undefined",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8?checkedby:iptvcat.com
